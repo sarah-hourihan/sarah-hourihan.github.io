@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sarah Hourihan"
 title_separator          : "-"
 name                     : &name "Sarah Hourihan"
-description              : &description "personal description"
+description              : &description "Undergraduate Researcher at Vanderbilt University"
 url                      : https://sarah-hourihan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sarah-hourihan.github.io"
@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Sarah Hourihan"
-  avatar           : "profile.png"
-  bio              : "Undergraduate researcher at Vanderbilt University"
+  avatar           : "/Users/sarahhourihan/Downloads/SarahHeadshot.png"
+  bio              : "Undergraduate researcher at Vanderbilt University, passionate about evolutionary biology and maximizing participation in STEM"
   location         : "Nashville, Tennessee"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -100,16 +100,16 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/sarah-hourihan-418a46204/"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "hourihan_sarah"
+  twitter          : "https://twitter.com/hourihan_sarah"
   vine             :
   weibo            :
   xing             :

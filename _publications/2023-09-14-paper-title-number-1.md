@@ -2,7 +2,6 @@
 title: "Song distinguishability predicts reproductive isolation between subspecies of the dark-eyed junco"
 collection: publications
 permalink: /publication/2023-09-14-paper-title-number-1
-excerpt: 'This paper explores song and genetic variation between dark-eyed junco subspecies.'
 date: 2023-09-14
 venue: 'Biorxiv'
 paperurl: "https://www.biorxiv.org/content/10.1101/2023.09.14.557432v1"

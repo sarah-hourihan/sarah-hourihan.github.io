@@ -1,7 +1,7 @@
 ---
 title: "Learning Assistant"
 collection: teaching
-type: "Undergraduate course"
+type: "Introduction to Biology"
 permalink: /teaching/2023-learning-assistant-2
 venue: "Vanderbilt University"
 date: 2023-08-23

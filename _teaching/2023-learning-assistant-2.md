@@ -1,11 +1,13 @@
 ---
 title: "Learning Assistant"
 collection: teaching
-type: "Teaching"
+type: "Undergraduate course"
 permalink: /teaching/2023-learning-assistant-2
 venue: "Vanderbilt University"
 date: 2023-08-23
 location: "Nashville, TN"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Beginning Fall 2023, I have served as a Learning Assistant for Introduction to Biology I (BSCI 1510) and Introduction to Biology II (BSCI 1511). In this role, I lead productive small-group discussions, challenge students to think deeper about challenging concepts, and promote inclusion and belonging in the classroom.
+
+[About the Vanderbilt LA Program](https://www.vanderbilt.edu/laprogram/)

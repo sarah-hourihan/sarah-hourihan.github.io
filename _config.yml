@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Sarah Hourihan"
-  avatar           : ![Sarah Hourihan](images/sarahheadshot2.jpg)
+  avatar           : ![Sarah Hourihan]("images/sarahheadshot2.jpg")
   bio              : "Evolutionary Biology Researcher"
   location         : "Nashville, Tennessee"
   employer         : "Vanderbilt University"

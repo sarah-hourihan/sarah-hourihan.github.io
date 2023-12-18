@@ -14,7 +14,7 @@ Education
 * B.A. in Ecology, Evolution, and Organismal Biology, Vanderbilt University, 2024
 * B.A. in Music, Vanderbilt University, 2024
 
-Work experience
+Work Experience
 ======
 * June 2021 - Present: Undergraduate Researcher @ Vanderbilt University
   * Supervisor: Dr. Nicole Creanza
@@ -61,7 +61,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service and Leadership
 ======
 * August 2022 - Present: Vanderbilt University Microbiome Society
   * President 2023-24 academic year; Vice President 2022-23 academic year

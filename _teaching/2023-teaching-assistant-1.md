@@ -1,9 +1,9 @@
 ---
 title: "Teaching Assistant"
 collection: teaching
-type: "Undergraduate course"
+type: "Evolution"
 permalink: /teaching/2023-teaching-assistant-1
-venue: "Vanderbilt University, Department of Biological Sciences"
+venue: "Vanderbilt University"
 date: 2023-01-09
 location: "Nashville, TN"
 ---

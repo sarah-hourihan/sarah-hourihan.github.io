@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sarah Hourihan"
 title_separator          : "-"
 name                     : &name "Sarah Hourihan"
-description              : &description "Undergraduate Researcher at Vanderbilt University"
+description              : &description "Sarah's professional website and blog."
 url                      : "https://sarah-hourihan.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sarah-hourihan.github.io"
@@ -197,11 +197,12 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
-      read_time: true
+      author_profile: false
+      read_time: false
       comments: true
       share: true
       related: true
+      excerpt: false
   # _pages
   - scope:
       path: ""
@@ -309,3 +310,7 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+post:
+  header: 
+    teaser: false

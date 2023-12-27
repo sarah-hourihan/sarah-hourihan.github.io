@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Sarah! I am passionate about evolutionary biology and maximizing participation in STEM. Currently, I am completing my undergraduate studies at Vanderbilt University, where I study Ecology, Evolution, & Organismal Biology (EEOB) and Music (Clarinet). For the past 3 years, I have researched birdsong evolution in the Creanza Lab at Vanderbilt.
+Hi, I'm Sarah! I am passionate about biology and maximizing participation in STEM. Currently, I am completing my undergraduate studies at Vanderbilt University, where I study Biological Sciences and Music (Clarinet). I research birdsong evolution in the Creanza Lab at Vanderbilt and serve as a laboratory assistant for the Hu Lab at Vanderbilt Medical Center. 
 
 **Contact Me!**
 ======

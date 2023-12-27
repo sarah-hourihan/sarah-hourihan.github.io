@@ -1,5 +1,5 @@
 ---
-title: '_Daring Greatly_ Notes and Reflection!'
+title: '_Daring Greatly_ Notes and Reflection'
 date: 2023-12-26
 permalink: /posts/2023/12/daring-greatly/
 tags:
@@ -78,7 +78,7 @@ As I read _Daring Greatly_, I tabbed some of the statements that were especially
     11. Surviving trauma
     12. Being stereotyped or labeled
 - There is a difference between guilt and shame. Guilt = I _did_ something did. Shame = I _am_ bad.
-  - Guilt is positive because it leads to improve or rightful apologies.
+  - Guilt is positive because it leads to improvement or rightful apologies.
   - Shame is destructive because it corrodes the belief that you can change and do better.
 - To build shame resilience:
     1. Practice courage and reach out to people
@@ -93,7 +93,7 @@ As I read _Daring Greatly_, I tabbed some of the statements that were especially
   - It’s a defensive move. It’s the belief that if you do things perfectly, you can minimize judgement and shame.
   - It actually hampers achievement and is correlated with depression, anxiety, addiction, and missed opportunities.
 - Numbing and distracting (e.g. with food, work, social media) doesn’t remove the pain of difficult experiences.
-  - "Numbing" activities aren't inherently bad; rather, it is the intention for engaging in the activities.
+  - "Numbing" activities aren't inherently bad; rather, it is the reason for engaging in the activities.
 - Ironically, oversharing can be a vulnerability shield.
   - Share with people who have earned the right and can bear the weight of your story.
 

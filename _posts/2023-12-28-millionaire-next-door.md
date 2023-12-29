@@ -31,7 +31,7 @@ As I read _The Millionaire Next Door_, I noted some of the statements that were 
 
 ## Preface
 
-- 90% of millionaires live in homes valued at under $300,000. **Remember, this book was written in the 1990s. $300K in 1998 is comparable to ~$552K in 2023.
+- 90% of millionaires live in homes valued at under 300,000 dollars. *Remember, this book was written in the 1990s. 300K in 1998 is comparable to ~552K in 2023.
 - These millionaires report that they are extremely satisfied with life. Although they _could_ live more lavishly, they do not, and they remain happy with this decision. 
 
 ## Introduction

@@ -31,7 +31,7 @@ As I read _The Millionaire Next Door_, I noted some of the statements that were 
 
 ## Preface
 
-- 90% of millionaires live in homes valued at under $300,000. (Remember, this book was written in the 1990s. $300K in 1998 is comparable to ~$552K in 2023.)
+- 90% of millionaires live in homes valued at under $300,000. **Remember, this book was written in the 1990s. $300K in 1998 is comparable to ~$552K in 2023.
 - These millionaires report that they are extremely satisfied with life. Although they _could_ live more lavishly, they do not, and they remain happy with this decision. 
 
 ## Introduction
@@ -43,6 +43,7 @@ As I read _The Millionaire Next Door_, I noted some of the statements that were 
 ## Meet the Millionaire Next Door
 
 - Millionaires on average live on less than 7% of their wealth. They live well below their means.
+  - This percentage may have changed since 1998.
 - Many people who display a high-consumption lifestyle have little or no investments, income-producing assets, stocks, bonds, private businesses, etc.
 - Millionaire status can be attained in one generation.
   - Most people who become millionaires have confidence in their own abilities. They don’t believe that one must be born wealthy.
@@ -60,7 +61,6 @@ As I read _The Millionaire Next Door_, I noted some of the statements that were 
 - Financially independent people are happier than those in their same income/age cohort who are not financially secure.
 - The higher one’s net worth, the better one is at minimizing realized income.
     - Minimize tax by investing heavily in tax-free municiples, tax-sheltered real estate, and stocks with unrealized gains.
-    - Average American pays 12.9% of annual realized income in federal income tax. Mr. Perot, a billionaire, only paid 8.5% of his income for tax.
 
 ## Time, Energy, and Money
 

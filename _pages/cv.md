@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.A. in Ecology, Evolution, and Organismal Biology, Vanderbilt University, 2024
+* B.A. in Biological Sciences, Vanderbilt University, 2024
 * B.A. in Music, Vanderbilt University, 2024
 
 Work Experience

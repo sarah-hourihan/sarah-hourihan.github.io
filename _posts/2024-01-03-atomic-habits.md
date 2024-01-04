@@ -11,7 +11,7 @@ In December 2022, I read _Atomic Habits_ by James Clear. This book has received 
 
 After reading _Atomic Habits_, I was able to implement habits I hadn't been able to stick to before: Having a solid morning and night routine, getting enough sleep, being consistent with my gratitude journal, going to the gym at 7 a.m. in the morning (a feat I never would have imagined for myself previously), and more. Although it is cheesy to say, _Atomic Habits_ inspired me to live my best life. Though I am far from perfect and still slip up on habits I have set, this book has given me a solid understanding of setting and implementing habits. 
 
-<img src="/images/atomic-habits.jpg" alt="Atomic Habits" width="300" height="450">
+<img src="/images/atomic-habits.jpg" alt="Atomic Habits" width="300" height="425">
 
 For my first post of 2024, what better way to kick off the new year than with a post about _Atomic Habits_! Of course, habits and goals don't have to begin at the beginning of the year. They can begin at any time, as each moment can be a fresh start. 
 
@@ -106,4 +106,72 @@ As I read _Atomic Habits_, I noted some of the statements that were especially i
 
 ### Chapter 11: Walk Slowly, but Never Backward
 
-This post is still in progress... check back later for the rest of my notes!
+- Trying to make the optimal plan for change keeps us from taking action.
+- Planning can actually be a form of procrastination
+- Habits form based on frequency, not time. Therefore, it's sometimes better to just get started.
+
+### Chapter 12: The Law of Least Effort
+
+- We are motivated to do what's easy
+  - **Make habits easy** so you'll do them even when you don't feel like it
+- Create barriers against bad habits
+  - Example: delete social media apps off your phone if you want to spend less time scrolling.
+ 
+### Chapter 13: How to Stop Procrastinating by Using the 2-Minute Rule
+
+- Little choices add up, with each setting the trajectory of how you'll spend your time
+  - Example: picking up your phone and scrolling social media vs. not picking up your phone to begin with
+- **When you start a new habit, it should take 2 minutes or less to complete**
+  - Make habits easy so you're more likely to stick to it
+  - New habits shouldn't feel extremely daunting
+- Shape habits into phases to slowly do more and more
+  - Example: Becoming an early riser
+    - Phase 1: Be home by 10 p.m. every night
+    - Phase 2: Have all devices away by 10 p.m.
+    - Phase 3: Be in bed by 10 p.m. every night
+    - Phase 4: Have lights out by 10 p.m. every night
+    - Phase 5: Wake up at 6 a.m. every day
+
+### Chapter 14: How to Make Good Habits Inevitable and Bad Habits Impossible
+
+- Some one-time actions pay off time and time again:
+  - Unsubscribing from email lists
+  - Turning your phone on silent
+  - Deleting social media apps
+- Automate parts of your life to free up time
+
+## The 4th Law - Make It Satisfying
+
+### Chapter 15: The Cardinal Rule of Behavior Change
+
+- Make a habit satisfying to do it more often
+- We prefer quick payoffs to long-term ones (instant gratification)
+- Add bits of immediate reward for completing a positive habit
+
+### Chapter 16: How to Stick with Good Habits
+
+- **Use a habit tracker** to visualize your progress on habits
+- **If you miss one day, get back to it asap**. Missing 2 days in a row increases the chances you'll miss more.
+
+### Chapter 17: How an Accountability Partner Can Change Everything
+
+- If there's a consequence to our behaviors, it is more likely to stop.
+- Habit contract: a way to add an immediate cost to a bad habit.
+  - Verbal or written agreement stating commitment to a habit and a consequence if you don't follow it.
+- Use other people as accountability partners.
+  - Knowing someone is watching can be a powerful motivator.
+
+## Advanced Tactics - How to Go from Being Merely Good to Being Truly Great
+
+### Chapter 18: The Truth About Talent
+
+- Habits are easier if they align with your natural inclinations and abilities.
+  - Direct your effort toward areas that excite you and match your skill.
+- Choose habits that best suit you, which may not be the most popular option.
+
+### Chapter 19: The Goldilocks Rule: How to Stay Motivated in Life and Work
+
+- **Goldilock's Rule**: Maintain motivation by working on tasks of manageable difficulty
+- **Flow state**: a.k.a. being 'in the zone.' Tasks should be ~4% above your current ability.
+
+I hope these notes were interesting and/or helpful! Definitely read _Atomic Habits_ if you would like to go more in depth with any of these points.

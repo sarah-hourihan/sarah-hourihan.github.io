@@ -11,7 +11,7 @@ In December 2022, I read _Atomic Habits_ by James Clear. This book has received 
 
 After reading _Atomic Habits_, I was able to implement habits I hadn't been able to stick to before: Having a solid morning and night routine, getting enough sleep, being consistent with my gratitude journal, going to the gym at 7 a.m. in the morning (a feat I never would have imagined for myself previously), and more. Although it is cheesy to say, _Atomic Habits_ inspired me to live my best life. Though I am far from perfect and still slip up on habits I have set, this book has given me a solid understanding of setting and implementing habits. 
 
-<img src="/images/atomic-habits.jpg" alt="Atomic Habits" width="300" height="425">
+<img src="/images/atomic-habits.jpg" alt="Atomic Habits" width="300" height="400">
 
 For my first post of 2024, what better way to kick off the new year than with a post about _Atomic Habits_! Of course, habits and goals don't have to begin at the beginning of the year. They can begin at any time, as each moment can be a fresh start. 
 

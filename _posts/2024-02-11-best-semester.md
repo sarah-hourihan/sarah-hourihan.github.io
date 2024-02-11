@@ -1,5 +1,5 @@
 ---
-title: "How I'm Making Spring '24 My _Best_ Semester"
+title: "How I Am Making Spring 2024 My _Best_ Semester"
 date: 2024-02-11
 permalink: /posts/2024/02/best-semester/
 tags:

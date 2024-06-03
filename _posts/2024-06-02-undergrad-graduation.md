@@ -51,6 +51,7 @@ I am so grateful for these opportunities to explore the world. I definitely made
 Before I wrap up this post, I want to add a quick note about being a first-generation college student. I am extremely proud to be a first-generation college graduate. Even though this identity has come with its challenges, such as confusion around the application process, initial lack of knowledge about certain resources, and acclimatization to college, it has made me more independent and more appreciative of this opportunity. I don’t take the privilege of being able to attend college, especially an “elite” university like Vanderbilt, lightly. I am very grateful to have gone to Vanderbilt, and I acknowledge all of the opportunities it has provided. I am very blessed to have the support of my family, specifically my parents. Even though they did not go to college, they always emphasized the importance of education and supported my aspiration to go to college. They nurtured my love for learning from a young age and have always supported my hopes and dreams. I couldn't ask for more.
 
 <img src="/images/firstgen-ceremony.jpg" alt="First Gen Ceremony" width="200" height="280">
+
 Pictured above: At the Vanderbilt First-Generation Graduates' Recognition Ceremony. 
 
 ## My attempt at a not-too-sappy conclusion

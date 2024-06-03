@@ -1,4 +1,9 @@
-# I graduated!
+---
+title: "I Graduated From Vanderbilt!"
+date: 2024-06-02
+permalink: /posts/2024/06/undergrad-graduation/
+tags:
+---
 
 On May 10, 2024, I graduated from Vanderbilt University with a Bachelor of Arts in Biological Sciences & Music! 
 

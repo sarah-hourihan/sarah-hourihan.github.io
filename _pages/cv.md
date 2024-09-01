@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Biology, University of Southern California (in progress)
-* B.A. in Biological Sciences & Music, Vanderbilt University, 2024
+* Ph.D., Integrative and Evolutionary Biology, University of Southern California (in progress)
+* B.A., Biological Sciences & Music, Vanderbilt University, 2024
 
 Work Experience
 ======

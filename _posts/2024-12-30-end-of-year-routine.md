@@ -13,7 +13,7 @@ As you can tell, I am a huge proponent of doing these types of reflections! I de
 In this post, I will be sharing what I do to reflect at the end of the year, and also how I set intentions for a new year. Click on the hyperlinks to get more information about how I structure them. If you are reading and have any additional things that you like to do, please feel free to reach out to me by email with any new ideas! 
 
 # End-of-year reflections
-### 1. Annual review
+### 1. [Annual review](https://sarah-hourihan.github.io/posts/2025/01/annual-review-format/)
 
 ### 2. [Reading wrap up](https://sarah-hourihan.github.io/posts/2024/12/reading-wrap-up-2024/)
 For the reading wrap up, I go over all of the books I have read in a given year. I also take it as an opportunity to choose which were my favorites. By laying out all of the books, I can see the genre breakdown, ratio of fiction to nonfiction, and think about what I want to read in the next year. 
@@ -25,6 +25,4 @@ For the reading wrap up, I go over all of the books I have read in a given year.
 
 ### 2. Vision board
 
-### 3. Ins and outs list
-
-### 4. Word of the year
+### 3. Word of the year

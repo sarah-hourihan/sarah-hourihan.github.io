@@ -25,4 +25,4 @@ For the reading wrap up, I go over all of the books I have read in a given year.
 
 ### 2. Vision board
 
-### 3. Word of the year
+### 3. [Word of the year](https://sarah-hourihan.github.io/posts/2025/01/word-of-the-year/)

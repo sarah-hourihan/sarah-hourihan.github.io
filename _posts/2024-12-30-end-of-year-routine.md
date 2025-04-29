@@ -15,7 +15,7 @@ In this post, I will be sharing what I do to reflect at the end of the year, and
 # End-of-year reflections
 ### 1. [Annual review](https://sarah-hourihan.github.io/posts/2025/01/annual-review-format/)
 
-### 2. [Reading wrap up](https://sarah-hourihan.github.io/posts/2024/12/reading-wrap-up-2024/)
+### 2. [Reading wrap up](https://sarahhourihan.substack.com/p/my-2024-reading-wrap-up)
 For the reading wrap up, I go over all of the books I have read in a given year. I also take it as an opportunity to choose which were my favorites. By laying out all of the books, I can see the genre breakdown, ratio of fiction to nonfiction, and think about what I want to read in the next year. 
 
 ### 3. [Financial reflection](https://sarah-hourihan.github.io/posts/2025/01/annual-financial-reflection/)

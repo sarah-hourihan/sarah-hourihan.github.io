@@ -31,70 +31,70 @@ At the end of the first year, students in my program take what is called the scr
 Enjoy some photos from my first year of my PhD and life in LA!
 
 <img src="/images/moving-pod.jpg" alt="Moving pod" width="300" height="400">
-My moving pod that got shipped over 2,000 from Illinois to California!
+<br /> My moving pod that got shipped over 2,000 from Illinois to California!   
 
 <img src="/images/dtla.jpg" alt="Downtown LA" width="300" height="400">
-Living in downtown LA has been a new, exciting experience! I come from a small town of ~20K people, so I honestly never imagined living downtown in a huge city with all of these skyscrapers around me. Overall, weather in LA is amazing. On a sunny (but not too hot day) I love going on walks with views like this one.
+<br /> Living in downtown LA has been a new, exciting experience! I come from a small town of ~20K people, so I honestly never imagined living downtown in a huge city with all of these skyscrapers around me. Overall, weather in LA is amazing. On a sunny (but not too hot day) I love going on walks with views like this one.
 
 <img src="/images/usc-merch.jpg" alt="USC merch" width="300" height="400">
-Some free USC merch I got at the beginning of the year. Love the tote bags and stickers!
+<br /> Some free USC merch I got at the beginning of the year. Love the tote bags and stickers!
 
 <img src="/images/hollywood-hike.jpg" alt="Hollywood sign" width="300" height="400">
-Last fall, I did the Hollywood Hills hike and got to see the iconic Hollywood sign :)
+<br /> Last fall, I did the Hollywood Hills hike and got to see the iconic Hollywood sign :)
 
 <img src="/images/usc-football.jpg" alt="USC football game" width="300" height="400">
-My first USC football game! Not a huge football enthusiast, but enjoyed the vibes. Also, as a former band kid, I loved seeing the USC marching band halftime show. 
+<br /> My first USC football game! Not a huge football enthusiast, but enjoyed the vibes. Also, as a former band kid, I loved seeing the USC marching band halftime show. 
 
 <img src="/images/owala-event.jpg" alt="Owala event" width="300" height="400">
-LA is known for pop-up events, where brands market new items and often give away products. At the Owala pop-up event, my friend and I got free coffee tumblers! This was actually so clutch because I now use this tumbler almost every day.
+<br /> LA is known for pop-up events, where brands market new items and often give away products. At the Owala pop-up event, my friend and I got free coffee tumblers! This was actually so clutch because I now use this tumbler almost every day.
 
 <img src="/images/jane-goodall.jpg" alt="Jane Goodall event" width="300" height="400">
-Some friends from my program and I went to Jane Goodall's Day of Peace event (which was also to celebrate Jane Goodall's 90th birthday)! It was really inspiring to hear her message.
+<br /> Some friends from my program and I went to Jane Goodall's Day of Peace event (which was also to celebrate Jane Goodall's 90th birthday)! It was really inspiring to hear her message.
 
 <img src="/images/broad-museum.jpg" alt="The Broad Museum" width="300" height="400">
-Selfie from the Infinity Room at the Broad Museum. The Broad is an art museum in downtown LA.
+<br /> Selfie from the Infinity Room at the Broad Museum. The Broad is an art museum in downtown LA.
 
 <img src="/images/la-library.jpg" alt="LA Central Library" width="300" height="400">
-As an avid reader, of course I had to stop by the LA library and get a library card. The downtown location is within walking distance from me. It is huge, has a lot of great resources, and solid book availability. 
+<br /> As an avid reader, of course I had to stop by the LA library and get a library card. The downtown location is within walking distance from me. It is huge, has a lot of great resources, and solid book availability. 
 
 <img src="/images/santa-monica-pier.jpg" alt="Santa Monica Pier" width="300" height="400">
-Day trip to Santa Monica Pier and beach. Not gonna lie, the pier was slightly underwhelming. I remember hearing a lot about it growing up, but it didn't quite live up to expectations. Still glad I saw it at least.
+<br /> Day trip to Santa Monica Pier and beach. Not gonna lie, the pier was slightly underwhelming. I remember hearing a lot about it growing up, but it didn't quite live up to expectations. Still glad I saw it at least.
 
 <img src="/images/disneyland.jpg" alt="Disneyland" width="400" height="300">
-My friend and I went to Disneyland during fall break! This was my first time at Disneyland :D I had a great experience!
+<br /> My friend and I went to Disneyland during fall break! This was my first time at Disneyland :D I had a great experience!
 
 <img src="/images/la-phil.jpg" alt="LA Phil concert" width="300" height="400">
-My first LA Phil concert! They sounded absolutely amazing and I love the Disney Concert Hall.
+<br /> My first LA Phil concert! They sounded absolutely amazing and I love the Disney Concert Hall.
 
 <img src="/images/usc-sunset.jpg" alt="Hollywood sign" width="300" height="400">
-A beautiful sunset I captured one night on USC's campus.
+<br /> A beautiful sunset I captured one night on USC's campus.
 
 <img src="/images/sso-retreat.jpg" alt="SSO retreat" width="400" height="300">
-I joined the USC student orchestra to continuing playing clarinet for fun in grad school! It has been a lot of fun so far :) Here is a picture from fall retreat in San Diego.
+<br /> I joined the USC student orchestra to continuing playing clarinet for fun in grad school! It has been a lot of fun so far :) Here is a picture from fall retreat in San Diego.
 
 <img src="/images/swaba.jpg" alt="SWABA conference" width="300" height="400">
-My first conference of my PhD. This was the Southwestern Association of Biological Anthropologists (SWABA) conference in Albuquerque, NM. It is a regional conference that my lab often attends. I had a great time taking in all the research and getting to meet more people in my field!
+<br /> My first conference of my PhD. This was the Southwestern Association of Biological Anthropologists (SWABA) conference in Albuquerque, NM. It is a regional conference that my lab often attends. I had a great time taking in all the research and getting to meet more people in my field!
 
 <img src="/images/la-kings.jpg" alt="LA Kings game" width="300" height="400">
-My first LA Kings game! Even though I'm still a faithful Chicago Blackhawks fan, this was still lots of fun.
+<br /> My first LA Kings game! Even though I'm still a faithful Chicago Blackhawks fan, this was still lots of fun.
 
 <img src="/images/universal.jpg" alt="Universal Studios Hollywood" width="300" height="400">
-My first time at Universal Studios Hollywood! A lot of firsts during this past year. It is similar to Universal Orlando, but a lot smaller since they are more constricted with space. I thought the backlot tour was really cool!
+<br /> My first time at Universal Studios Hollywood! A lot of firsts during this past year. It is similar to Universal Orlando, but a lot smaller since they are more constricted with space. I thought the backlot tour was really cool!
 
 <img src="/images/crystal-cove.jpg" alt="Crystal Cove State Park" width="300" height="400">
-A picture I snapped from my walk at Crystal Cove State Park. It is beautiful there!
+<br /> A picture I snapped from my walk at Crystal Cove State Park. It is beautiful there!
 
 <img src="/images/23rd-bday.jpg" alt="23rd birthday dinner" width="300" height="400">
-I celebrated my 23rd birthday with friends from my program! We went to Anju House in Koreatown. I thought it was decent and I love the ambience there.
+<br /> I celebrated my 23rd birthday with friends from my program! We went to Anju House in Koreatown. I thought it was decent and I love the ambience there.
 
 <img src="/images/malibu.jpg" alt="Malibu" width="300" height="400">
-A breathtaking sunset at Westward Beach in Malibu!
+<br /> A breathtaking sunset at Westward Beach in Malibu!
 
 <img src="/images/hba-baltimore.jpg" alt="HBA conference" width="300" height="400">
-This spring, I went to the Human Biology Association conference in Baltimore, Maryland. I love going to conferences, getting to explore new places, and most importantly be immersed in research and meet new people. 
+<br /> This spring, I went to the Human Biology Association conference in Baltimore, Maryland. I love going to conferences, getting to explore new places, and most importantly be immersed in research and meet new people. 
 
 <img src="/images/phd-ceremony.jpg" alt="PhD ceremony" width="300" height="400">
-Ended the semester by attending the USC PhD hooding ceremony. A few people from my program graduated this year. It was so cool to see the culminating event of their PhD.
+<br /> Ended the semester by attending the USC PhD hooding ceremony. A few people from my program graduated this year. It was so cool to see the culminating event of their PhD.
 
 I had an amazing first year! I am really grateful that I am enjoying my research, my lab, the program, and this city so much. Looking forward to more!
 

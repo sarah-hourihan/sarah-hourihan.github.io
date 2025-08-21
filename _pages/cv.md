@@ -16,25 +16,27 @@ Education
 
 Work Experience
 ======
-* June 2021 - Present: Undergraduate Researcher @ Vanderbilt University
+* January 2025 - Present: Graduate Research Assistant @ University of Southern California
+  * Supervisor: Dr. David Raichlen
+ 
+* June 2021 - May 2024: Undergraduate Researcher @ Vanderbilt University
   * Supervisor: Dr. Nicole Creanza
-  * Investigate the role of learned birdsong vocalization on maintenance of reproductive boundaries
-  * Communicate research findings through conference presentations and a first-author paper
-  * Currently studying urbanization's effects on birdsong across time and space
-  * Completed project: Analyzed song, genetic, and geographic differences between subspecies of the dark-eyed junco songbird
+  * Investigated the role of learned birdsong vocalization on maintenance of reproductive boundaries
+  * Studied urbanization's effects on birdsong across time and space
+  * Communicated research findings through manuscripts and conference presentations
 
 * October 2022 - May 2024: Laboratory Assistant @ Vanderbilt University Medical Center
   * Supervisors: Dr. Patrick Hu and Dr. Titan Shih
-  * Perform DNA and protein extraction, run gels, complete PCR, and transfer C. elegans between plates while assisting with research projects
-  * Pour agar plates, make stock solutions, and order supplies
+  * Performed DNA and protein extraction, ran gels, completed PCR, and transferred _C. elegans_ between plates while assisting with research projects
+  * Poured agar plates, made stock solutions, and ordered supplies
  
 * August 2023 - May 2024: Learning Assistant @ Vanderbilt University
   * Learning Assistant for Introduction to Biology I (BSCI 1510) and Introduction to Biology II (BSCI 1511)
-  * Facilitate productive small-group discussion, prompt students to think deeper about challenging concepts, and create a welcoming environment for students to feel comfortable in a large introductory STEM course
+  * Facilitated productive small-group discussions, prompted students to think deeper about challenging concepts, and created a welcoming environment for students to feel comfortable in a large introductory STEM course
 
 * January 2023 - May 2023: Teaching Assistant @ Vanderbilt University
   * Teaching Assistant for Evolution (BSCI 2205)
-  * Host weekly office hours and hold review sessions before exams
+  * Hosted weekly office hours and held review sessions before exams
   
 Skills
 ======
@@ -63,6 +65,10 @@ Teaching
   
 Service and Leadership
 ======
+* August 2025 - Present: USC Women in Science and Engineering, PhD Division
+  * Social Chair 2025-26 academic year
+  * Plan events to support and uplift women in STEM
+ 
 * August 2022 - May 2024: Vanderbilt University Microbiome Society
   * President 2023-24 academic year; Vice President 2022-23 academic year
   * Educate the Vanderbilt and greater Nashville community about the human microbiome
@@ -79,6 +85,8 @@ Service and Leadership
 
 **Awards**
 ======
+* USC WiSE Travel Grant - $500
+* USC Dornsife PhD Academy Research Grant - $400
 * Arnold and Mabel Beckman Scholarship - $26,000
 * Vanderbilt/NIH Pre-MARC Summer Research Fellowship - $2,500
 * Vanderbilt Evolutionary Studies Travel Grant - $1,000

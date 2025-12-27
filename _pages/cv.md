@@ -77,13 +77,13 @@ Service and Leadership
  
 * August 2022 - May 2024: Vanderbilt University Microbiome Society
   * President 2023-24 academic year; Vice President 2022-23 academic year
-  * Educate the Vanderbilt and greater Nashville community about the human microbiome
-  * Partner with BELL Garden, Second Harvest Food Bank, and Nashville General Hospital Food Pharmacy to distribute gut-healthy foods to community members in need
+  * Educated the Vanderbilt and greater Nashville community about the human microbiome
+  * Partnered with BELL Garden, Second Harvest Food Bank, and Nashville General Hospital Food Pharmacy to distribute gut-healthy foods to community members in need
 
 * August 2020 - May 2024: Vanderbilt STEM Transition and Retention Program
   * Peer mentor starting January 2023; General member previously
   * Mentorship program for 1st- and 2nd-year Vanderbilt students to explore careers in STEM and get involved in research
-  * Specifically helps students from underrepresented groups to increase diversity and participation in STEM
+  * Mentored students from underrepresented groups to increase diversity and participation in STEM
 
 * August 2020 - May 2022: Vanderbilt Athletic Bands
   * Secretary and Treasuser 2021-22 season

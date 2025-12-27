@@ -53,13 +53,13 @@ Publications
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
+  <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
+  <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
@@ -68,6 +68,12 @@ Service and Leadership
 * August 2025 - Present: USC Women in Science and Engineering, PhD Division
   * Social Chair 2025-26 academic year
   * Plan events to support and uplift women in STEM
+ 
+* July 2025: San Francisco State University Science Coding Immersion Program Guest Speaker
+  * Shared my academic, research, and coding journey with participants of the SCIP program
+ 
+* October 2024 - Present: USC Joint Educational Project Volunteer
+  * Serve as a guest scientist speaker with the JEP Medical STEM Program, WonderKids afterschool program, and Young Scientists Program 
  
 * August 2022 - May 2024: Vanderbilt University Microbiome Society
   * President 2023-24 academic year; Vice President 2022-23 academic year
@@ -85,12 +91,12 @@ Service and Leadership
 
 **Awards**
 ======
-* USC WiSE Travel Grant - $500
-* USC Dornsife PhD Academy Research Grant - $400
-* Arnold and Mabel Beckman Scholarship - $26,000
-* Vanderbilt/NIH Pre-MARC Summer Research Fellowship - $2,500
-* Vanderbilt Evolutionary Studies Travel Grant - $1,000
-* Selma Ruben Scholarship - $77,046
+* USC WiSE Travel Grant
+* USC Dornsife PhD Academy Research Grant
+* Arnold and Mabel Beckman Scholarship
+* Vanderbilt/NIH Pre-MARC Summer Research Fellowship
+* Vanderbilt Evolutionary Studies Travel Grant
+* Selma Ruben Scholarship
 * Highest Honors in Biological Sciences at Vanderbilt (May 2024)
 * Outstanding Research in Biological Sciences at Vanderbilt Award (May 2024)
 * National Science Foundation Graduate Research Fellowship - Honorable Mention (April 2024)

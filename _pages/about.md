@@ -12,4 +12,4 @@ Hi, I'm Sarah! I am passionate about biology and maximizing participation in STE
 
 **Contact Me!**
 ======
-I am always seeking new opportunities to learn and grow! Feel free to email me at hello[at]shourihan23.anonaddy.com
+I am always seeking opportunities to learn, grow, and chat about science! Feel free to email me.

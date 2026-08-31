@@ -66,7 +66,7 @@ Teaching
 Service and Leadership
 ======
 * August 2025 - Present: USC Women in Science and Engineering, PhD Division
-  * Social Chair 2025-26 academic year
+  * Social Committee Chair
   * Plan events to support and uplift women in STEM
  
 * July 2025: San Francisco State University Science Coding Immersion Program Guest Speaker
@@ -85,12 +85,10 @@ Service and Leadership
   * Mentorship program for 1st- and 2nd-year Vanderbilt students to explore careers in STEM and get involved in research
   * Mentored students from underrepresented groups to increase diversity and participation in STEM
 
-* August 2020 - May 2022: Vanderbilt Athletic Bands
-  * Secretary and Treasuser 2021-22 season
-  * Clarinetist in the Spirit of Gold Marching Band and Anchor of Sound Basketball Band
-
 **Awards**
 ======
+* Davis Graduate Student Research Award
+* William S. Pollitzer Student Travel Award for AABA Annual Meeting
 * USC WiSE Travel Grant
 * USC Dornsife PhD Academy Research Grant
 * Arnold and Mabel Beckman Scholarship

@@ -1,0 +1,72 @@
+---
+---
+
+/* Keep the original light theme; dark overrides are scoped and reversible. */
+:root { color-scheme: light; }
+.masthead__menu { display: flex; align-items: center; gap: 1rem; }
+.masthead__menu .greedy-nav { flex: 1; min-width: 0; }
+.theme-control { display: flex; align-items: center; gap: .4rem; flex-shrink: 0; font-size: .75rem; }
+.theme-control[hidden] { display: none; }
+.theme-control label { margin: 0; font-size: inherit; }
+.theme-control select { width: auto; margin: 0; padding: .4rem; border: 1px solid #7a8288; border-radius: 4px; background: #fff; color: #3f4549; font: inherit; }
+.theme-control select:focus-visible, .greedy-nav button:focus-visible { outline: 3px solid #268579; outline-offset: 3px; }
+@media (max-width: 480px) {
+  .masthead__menu { flex-wrap: wrap; gap: .5rem; }
+  .masthead__menu .greedy-nav { flex-basis: 100%; }
+  .theme-control { margin-left: auto; }
+}
+
+@mixin dark-theme {
+  color-scheme: dark;
+  --theme-bg: #1b2023;
+  --theme-surface: #252d31;
+  --theme-text: #eeeae2;
+  --theme-muted: #b7c2c6;
+  --theme-border: #536268;
+  --theme-link: #86d9ca;
+  background: var(--theme-bg);
+  color: var(--theme-text);
+  body { background: var(--theme-bg); color: var(--theme-text); }
+  a { color: var(--theme-link); }
+  a:hover { color: #b3efe5; }
+  a:focus-visible, button:focus-visible, select:focus-visible { outline: 3px solid var(--theme-link); outline-offset: 3px; }
+  .masthead, .page__footer, .page__title, .page__share, .page__related, hr, th, td, blockquote, .author__avatar img, .pagination a { border-color: var(--theme-border); }
+  .greedy-nav { background: var(--theme-bg); }
+  .greedy-nav a, .author__urls a, .page__footer a { color: var(--theme-text); }
+  .greedy-nav a:hover { color: var(--theme-link); }
+  .greedy-nav .visible-links a:before { background: var(--theme-link); }
+  .greedy-nav .hidden-links, .author__urls, .toc, .page__footer { background: var(--theme-surface); border-color: var(--theme-border); }
+  .greedy-nav .hidden-links:before, .author__urls:before { border-color: var(--theme-border) transparent; }
+  .greedy-nav .hidden-links:after, .author__urls:after { border-color: var(--theme-surface) transparent; }
+  .greedy-nav .hidden-links a:hover, .toc__menu a:hover { background: #344148; color: var(--theme-link); }
+  .page__footer, .page__footer .fas, .page__footer .fab, .page__meta, .archive__item-excerpt, figcaption, .toc, .toc__menu a { color: var(--theme-muted); }
+  .social-icons .fa-github { color: var(--theme-text); }
+  .btn, .greedy-nav button, .toc .nav__title, .nav__list .active { background: #375c57; color: #fff !important; }
+  .btn:hover, .greedy-nav button:hover { background: #466f69; }
+  label, legend { color: var(--theme-text); }
+  input, textarea, select, .theme-control select { background: var(--theme-surface); color: var(--theme-text); border-color: var(--theme-border); }
+  input::placeholder, textarea::placeholder { color: var(--theme-muted); }
+  code, pre, div.highlighter-rouge, figure.highlight, .highlight { background: var(--theme-surface); color: var(--theme-text); border-color: var(--theme-border); }
+  div.highlighter-rouge:before, figure.highlight:before { background: #344148; }
+  .highlight span { color: inherit; }
+  .highlight .c, .highlight .cm, .highlight .c1 { color: #b7c2c6; }
+  .highlight .k, .highlight .kn, .highlight .o, .highlight .ow { color: #d4d990; }
+  .highlight .s, .highlight .s1, .highlight .s2, .highlight .m { color: #86d9ca; }
+  .highlight .nf, .highlight .nc, .highlight .nt { color: #a5d9f0; }
+  .notice, [class*="notice--"] { background: var(--theme-surface); color: var(--theme-text); }
+  ::selection { background: #86d9ca; color: #1b2023; }
+}
+:root[data-theme="dark"] { @include dark-theme; }
+/* Device preference also works when JavaScript is disabled. */
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme]) { @include dark-theme; }
+}
+@media print {
+  :root, :root[data-theme="dark"] {
+    color-scheme: light;
+    &, body { background: #fff !important; color: #000 !important; }
+    a, .page__meta, .archive__item-excerpt, figcaption, code, pre, .highlight, .highlight span { color: #000 !important; }
+    code, pre, .highlight, div.highlighter-rouge, figure.highlight { background: #fff !important; }
+  }
+  .theme-control { display: none !important; }
+}

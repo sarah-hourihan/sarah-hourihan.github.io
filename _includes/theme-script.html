@@ -1,0 +1,45 @@
+<script>
+(function () {
+  'use strict';
+  var key = 'color-theme';
+  var preference = 'system';
+  var media = window.matchMedia('(prefers-color-scheme: dark)');
+  function valid(value) {
+    return value === 'light' || value === 'dark' || value === 'system';
+  }
+  try {
+    var saved = window.localStorage.getItem(key);
+    if (valid(saved)) preference = saved;
+  } catch (error) { /* Storage may be unavailable in private browsing. */ }
+  function apply() {
+    var theme = preference === 'system' ? (media.matches ? 'dark' : 'light') : preference;
+    document.documentElement.setAttribute('data-theme', theme);
+    var meta = document.querySelector('meta[name="theme-color"]');
+    if (meta) meta.setAttribute('content', theme === 'dark' ? '#1b2023' : '#ffffff');
+  }
+  apply();
+  if (media.addEventListener) media.addEventListener('change', apply);
+  else if (media.addListener) media.addListener(apply);
+  window.addEventListener('storage', function (event) {
+    if (event.key !== key && event.key !== null) return;
+    preference = valid(event.newValue) ? event.newValue : 'system';
+    apply();
+    var select = document.getElementById('theme-preference');
+    if (select) select.value = preference;
+  });
+  document.addEventListener('DOMContentLoaded', function () {
+    var select = document.getElementById('theme-preference');
+    if (!select) return;
+    select.value = preference;
+    select.addEventListener('change', function () {
+      preference = valid(select.value) ? select.value : 'system';
+      try {
+        if (preference === 'system') window.localStorage.removeItem(key);
+        else window.localStorage.setItem(key, preference);
+      } catch (error) { /* The choice still works for this page. */ }
+      apply();
+    });
+    document.querySelector('.theme-control').hidden = false;
+  });
+}());
+</script>
